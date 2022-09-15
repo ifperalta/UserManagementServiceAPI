@@ -1,0 +1,13 @@
+08 - 16 - Done
+- refactored the code
+- Create INSERT Rest API
+- Generate UUID Token for User Authentication
+------------------------------------------------------------------------
+
+08 - 17
+- Create User DELETE Rest API - Done
+- Create User UPDATE Rest API - Done
+
+08 - 22
+- User Service Authentication Class to check if user exist
+- Create Query to include user roles
