@@ -1,3 +1,2 @@
-# User Management Service API
-
+# User Microservice
 Node Js Microservice for user management and authentication
